@@ -57,7 +57,7 @@ section {
 }
 
 #navBar>a:hover {
-  color: var(--pink);
+  color: var(--green);
   cursor: pointer;
 }
 .navLink:hover {
@@ -230,4 +230,4 @@ main img {
   transform: scale(1);
 }
 
-#page_two h2 { color: var(rgb(83, 11, 70)te); }
+#page_two h2 { color: var(--red); }
