@@ -61,7 +61,7 @@ section {
   cursor: pointer;
 }
 .navLink:hover {
-  color: var(--blue);
+  color: var(rgb(83, 20, 22));
   cursor: pointer;
 }
 
