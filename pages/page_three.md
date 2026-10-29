@@ -1,6 +1,6 @@
 # Page Three
 
-## This is the headline of your third page
+## Which open source project would be useful in your major, and why?
 
 The text on this page is written in the file **pages/page_third.md**. The first line, starting with a single #, becomes the heading in the banner.
 
