@@ -56,19 +56,14 @@ section {
   transition: ease-in-out, 0.3s;
 }
 
-a {
-    display: inline-block; /* Required for text links to scale properly */
-    transition: transform 0.2s ease-in-out;
-}
-
-a:hover {
-    transform: scale(1.1); /* Adjust 1.1 to make it bigger (1.2) or smaller (1.05) */
-}
 
 
 #navBar>a:hover {
   color: var(--white);
   cursor: pointer;
+
+  transition: transform 0.2s ease-in-out;
+  transform: scale(1.1); /* Adjust 1.1 to make it bigger (1.2) or smaller (1.05) */
 }
 
 
