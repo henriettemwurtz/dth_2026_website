@@ -119,7 +119,7 @@ h1 {
 .carouselArt img {
   width: 100%;
   aspect-ratio: 2 / 1;
-  background-color: black);
+  background-color: black;
 }
 
 #carouselBtnContainer {
@@ -176,7 +176,7 @@ footer {
 }
 
 .blueText {
-  color: white);
+  color: white;
 }
 
 .redText {
