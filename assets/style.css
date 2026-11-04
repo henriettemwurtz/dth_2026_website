@@ -47,24 +47,23 @@ section {
 
 #navBar>a {
   align-self: center;
-  transition: ease-in-out, 0.5s;
+  transition: ease-in-out, 0.3s;
 }
 
 .navLink,
 .footerLinks {
   margin-left: 20px;
-  transition: ease-in-out, 0.5s;
-}
-
-.navLink>a:hover {
-  transform: scale(1.3);
+  transition: ease-in-out, 0.3s;
 }
 
 #navBar>a:hover {
   color: var(--white);
   cursor: pointer;
 }
-
+.navLink:hover {
+  color: var(--white);
+  cursor: pointer;
+}
 
 
 /* hero banner */
