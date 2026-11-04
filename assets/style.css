@@ -47,7 +47,7 @@ section {
 
 #navBar>a {
   align-self: center;
-  transition: ease-in-out, 0.3s;
+  transition: ease-in-out, 0.5s;
 }
 
 .navLink,
@@ -62,7 +62,6 @@ section {
   color: var(--white);
   cursor: pointer;
 }
-
 
 /* hero banner */
 
