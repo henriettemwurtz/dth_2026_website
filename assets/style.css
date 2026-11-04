@@ -71,17 +71,6 @@ section {
 
 
 
-.cta {
-  transition: transform 0.2s;
-}
-
-.cta:hover {
-  transform: scale(1.08) rotate(-2deg);
-}
-
-
-
-
 
 /* hero banner */
 
