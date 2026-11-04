@@ -63,6 +63,10 @@ section {
   cursor: pointer;
 }
 
+.navBar>a:hover {
+  transform: scale(1.3);
+}
+
 /* hero banner */
 
 #pageHero {
