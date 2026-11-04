@@ -54,6 +54,7 @@ section {
 .footerLinks {
   margin-left: 20px;
   transition: ease-in-out, 0.3s;
+   transform: scale(1.1); 
 }
 
 
@@ -61,7 +62,6 @@ section {
 #navBar>a:hover {
   color: var(--white);
   cursor: pointer;
-  transform: scale(1.1); 
 }
 
 
