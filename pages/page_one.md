@@ -11,6 +11,6 @@ Everything you see here is written in the file **pages/page_one.md**. Change the
 
 ### A smaller headline
 
-You can also add images from the assets folder:
+text
 
-![The beach at Skagen]()
+![description of picture]()
