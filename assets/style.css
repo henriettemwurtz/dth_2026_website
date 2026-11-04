@@ -69,9 +69,30 @@ section {
   transition: ease-in-out, 0.3s;
 }
 
-@navLink wiggle {
-  from { rotate: -4deg; }
-  to   { rotate: 4deg; }
+.cta {
+  transition: transform 0.2s;
+}
+
+.cta:hover {
+  transform: scale(1.08) rotate(-2deg);
+}
+
+.dots {
+  position: fixed;
+  right: 16px;
+  top: 50%;
+  translate: 0 -50%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.dots i {
+  display: block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 
