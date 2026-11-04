@@ -11,5 +11,4 @@ Everything you see here is written in the file **pages/page_one.md**. Change the
 
 ### A smaller headline
 
-text
 
