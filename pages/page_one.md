@@ -13,4 +13,3 @@ Everything you see here is written in the file **pages/page_one.md**. Change the
 
 text
 
-![description of picture]()
