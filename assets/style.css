@@ -98,6 +98,7 @@ h1 {
   text-align: center;
   letter-spacing: 3px;
   font-family: Rouge Script;
+  font-size: 500%;
 }
 
 
@@ -182,19 +183,6 @@ footer {
 
 /* style classes */
 
-.rouge-script-regular {
-  font-family: "Rouge Script", cursive;
-  font-weight: 400;
-  font-style: normal;
-  font-size:xx-large;
-}
-
-.rouge-script-regular {
-  font-family: "Rouge Script", cursive;
-  font-weight: 400;
-  font-style: normal;
-  font-size:large;
-}
 
 .flex {
   display: flex;
