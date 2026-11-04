@@ -91,6 +91,10 @@ h1 {
   letter-spacing: 20px;
 }
 
+h2 {
+  color:rgb(78, 14, 40);
+}
+
 /* carousel articles */
 
 #carouselMain {
