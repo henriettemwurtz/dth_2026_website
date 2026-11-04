@@ -63,7 +63,7 @@ section {
 .navLink:hover {
   color: var(--white);
   cursor: pointer;
-  transform: scale(1);
+  transform: scale(1.3);
 }
 
 
