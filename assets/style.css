@@ -224,7 +224,7 @@ main img {
 }
 
 .btnDisabled {
-  color: var(--light-blue);
+  color: rgb(78, 14, 40);
 }
 .btnDisabled:hover {
   color: var(--light-blue);
