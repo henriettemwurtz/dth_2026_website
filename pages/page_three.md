@@ -1,4 +1,4 @@
-# Page Three
+# Page three
 
 ## Which open source project would be useful in your major, and why?
 
