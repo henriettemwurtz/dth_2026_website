@@ -92,12 +92,13 @@ section {
 
 h1 {
   color:rgb(78, 14, 40);
-  width: 150%;
+  width: 100%;
   padding: 0;
   align-self: center;
   text-align: center;
   letter-spacing: 3px;
   font: Rouge Script;
+  font-size: 20;
 }
 
 h2 {
