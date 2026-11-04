@@ -13,7 +13,7 @@
   --purple: #ceaeea;
   --red: #f22c43;
   --yellow: #fddd0d;
-  --projectFont: Lexend, Arial, sans-serif;
+  --projectFont: Lexend, Arial, sans-serif, Rouge Script;
 }
 
 /* individual element styles */
@@ -96,6 +96,7 @@ h1 {
   align-self: center;
   text-align: center;
   letter-spacing: 3px;
+  font-family: Rouge Script;
 }
 
 h2 {
