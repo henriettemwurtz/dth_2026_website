@@ -54,16 +54,20 @@ section {
 .footerLinks {
   margin-left: 20px;
   transition: ease-in-out, 0.3s;
+  
+  border-style: solid;
+  border-width: 1px;
+  padding: 3px;
+  border-radius: 10px;
+  text-decoration: none;
 }
+
 
 #navBar>a:hover {
   color: var(--white);
   cursor: pointer;
 }
-.navLink:hover {
-  color: var(--white);
-  cursor: pointer;
-}
+
 
 /* hero banner */
 
