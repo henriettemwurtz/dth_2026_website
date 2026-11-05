@@ -130,7 +130,7 @@ h2 {
   left: 0;
   width: 100%;
   height: 50px;
-  background: linear-gradient(to bottom, transparent, rgb(244, 200, 201));
+  background: linear-gradient(to bottom, transparent, );
   pointer-events: none;
 }
 
