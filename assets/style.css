@@ -21,7 +21,7 @@
 
 body {
   background-color:rgb(244, 200, 201);
-  background: linear-gradient(to bottom, transparent, rgb(166, 100, 141));
+  background: linear-gradient(to bottom, transparent,rgb(244, 200, 201), rgb(166, 100, 141));
   font-family: var(--projectFont);
   padding: 0;
   margin: 0;
