@@ -1,4 +1,4 @@
-# Advantages of OSS
+# Advantages of Open Source Software
 
 ## What are the advantages of open source software?
 
