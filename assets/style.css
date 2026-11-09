@@ -255,6 +255,11 @@ main img {
 
 #page_two h2 { color: rgb(78, 14, 40)}
 
+@keyframes fall {
+  from { transform: translateY(-10vh) rotate(0deg); }
+  to   { transform: translateY(110vh) rotate(720deg); }
+}
+
 .confetti {
   position: absolute;
   top: -20px;
