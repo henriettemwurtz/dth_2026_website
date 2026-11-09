@@ -267,6 +267,6 @@ main img {
   height: 22px;
   border-radius: 3px;
   font-size: 20 px;
-  color: white;
+  color: black;
   animation: fall 5s linear infinite;
 }
