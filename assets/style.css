@@ -254,3 +254,12 @@ main img {
 }
 
 #page_two h2 { color: rgb(78, 14, 40)}
+
+.confetti {
+  position: absolute;
+  top: -20px;
+  width: 14px;
+  height: 22px;
+  border-radius: 3px;
+  animation: fall 5s linear infinite;
+}
