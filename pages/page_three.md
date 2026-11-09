@@ -1,4 +1,4 @@
-# Page three
+# Project Idea for My Major 
 
 ## Which open source project would be useful in your major, and why?
 
