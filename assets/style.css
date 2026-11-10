@@ -128,6 +128,11 @@ a:link {
   color: rgb(94, 51, 75);
 }
 
+a:visited { 
+  color: rgb(94, 51, 75);
+  }
+
+
 li::marker {
   font-family: Rouge Script;
   color: rgb(94, 51, 75);
