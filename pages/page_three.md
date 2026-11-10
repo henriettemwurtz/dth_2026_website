@@ -6,7 +6,6 @@
 
 As part of my English studies, I frequently work with large amounts of visual material that require analysis. My usual approach involves noting down timestamps and annotations in a document, which is often cumbersome and hard to manage. Furthermore, it requires me to manually navigate back and forth between specific scenes I am analysing. I believe Vidat could be useful for future projects, as it has **the potential to streamline the preparation process** by letting me easily navigate between timestamps and annotations.
 
-
 ### About the project:
 1. It operates under the **MIT license**. This means that it is free for everyone and gives developers the freedom to modify, distribute, and sell copies of the software, provided that these copies also comply with these terms.
 2. The project was last updated on **July 27, 2026**.
