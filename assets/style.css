@@ -125,6 +125,10 @@ a:link {
   color: rgb(94, 51, 75);
 }
 
+li::marker {
+  color: red;
+}
+
 
 /* carousel articles */
 
