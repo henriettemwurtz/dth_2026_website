@@ -121,6 +121,10 @@ font-size: 20px;
 font-family: Cinzel;
 }
 
+a:link {
+  color: yellow;
+}
+
 
 /* carousel articles */
 
