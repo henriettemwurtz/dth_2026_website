@@ -26,7 +26,7 @@ body {
   font-family: var(--projectFont);
   padding: 0;
   margin: 0;
-  font-weight: 300;
+  font-weight: 200;
 }
 
 /* some of HTML elements come with element specific style, we want to remove it so we can style them ourselves */
