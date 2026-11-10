@@ -114,6 +114,9 @@ color:rgb(78, 14, 40);
 font-size: 30px;
 }
 
+** ** { 
+  color: rgb(24, 194, 30); 
+}
 
 
 /* carousel articles */
@@ -280,4 +283,3 @@ main img {
   animation: fall 5s linear infinite;
 }
 
-** { color: rgb(24, 194, 30); }
