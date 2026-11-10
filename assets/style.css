@@ -136,6 +136,10 @@ li::marker {
   line-height: 1,5;
 }
 
+p {
+  font-size: 15px;
+  line-height: 22px;
+}
 
 /* carousel articles */
 
