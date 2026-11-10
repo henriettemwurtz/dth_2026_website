@@ -2,11 +2,8 @@
 
 ## What are the disadvantages of open source software?
 
-The text on this page is written in the file **pages/page_two.md**. The first line, starting with a single #, becomes the heading in the banner.
+Despite the advantages, open source software also entails several disadvantages. It is typically developed and maintained by several contributors who receive no financial reward for their efforts. This means that the identification and resolution of bugs are less reliable than is the case with proprietary software, and that users of the software therefore cannot expect immediate support. This approach also implies that no single individual bears full responsibility should technical issues occur.
 
-There is only one HTML file, index.html. It holds the frame around the text: the navigation, the banner and the footer. The link in the navigation decides which markdown file is shown inside the frame. The words themselves live in a markdown file, which is much quicker to write than HTML. Many websites work the same way: the content is kept separately from the page that displays it.
+Similarly, not everyone with access to the source code accesses it for the purpose of contributing to the software. Some individuals access the source code to identify and exploit vulnerabilities by inserting malicious code, which can facilitate harmful transfers or other malicious activities that lead to data theft. This was the case with VLC Media Player, where hackers discovered a vulnerability in the way the software retrieved subtitles. By inserting malicious code into these subtitles, they gained full access to the devices that had downloaded the files. This occurred without the users needing to take any actions, as it was VLC itself that imported the compromised files as part of its normal operation.
 
-### Another headline
-
-1. Numbered lists work too
-2. Just start the lines with numbers
+Although open source software is publicly available , it can still entail unforeseen costs. This is because developing and maintaining  the software requires technical expertise, which may mean companies and institutions need to invest in employee training or external assistance to implement it. The same applies if problems arise later that they cannot resolve themselves, as open source software does not provide technical support.
