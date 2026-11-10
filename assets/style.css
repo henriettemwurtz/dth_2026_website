@@ -126,8 +126,8 @@ a:link {
 }
 
 li::marker {
-  color: rgb(244, 200, 201);
-  background-color: rgb(94, 51, 75);
+  font-family: Rouge Script;
+  color: rgb(94, 51, 75);
   font-size: 15px;
 }
 
