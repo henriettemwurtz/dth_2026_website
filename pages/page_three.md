@@ -18,4 +18,4 @@ As part of my English studies, I frequently work with large amounts of visual ma
 A couple of months have passed since the last commit, which suggests that the project has either been abandoned or that issues with the tool rarely arise. That said, I am still willing to try it to see whether it can assist me with my thesis work. If it streamlines the process, I might be able to use it for similar projects in the future.
 
 
-*Sources: <a href="https://github.com/anucvml/vidat">Check Point Blog</a>, <a href="https://doi.org/10.48175/IJARSCT-11689">Vidat, Github</a>*
+*Sources: <a href="https://github.com/anucvml/vidat">Check Point Blog</a>, <a href="https://doi.org/10.48175/IJARSCT-11689">Vidat, Github</a>.*
