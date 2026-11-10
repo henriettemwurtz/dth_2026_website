@@ -33,7 +33,7 @@ body {
 a {
   color: inherit; /* the "inherit" property ensures that the element uses the same style as its parent - an element specific style will overwrite this property*/
   text-decoration: inherit;
-  line-height: 2;
+  line-height: 3;
 }
 
 ul {
