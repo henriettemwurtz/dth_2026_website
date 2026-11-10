@@ -126,7 +126,8 @@ a:link {
 }
 
 li::marker {
-  color: red;
+  color: rgb(244, 200, 201);
+  background-color: rgb(94, 51, 75);
 }
 
 
