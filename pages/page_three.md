@@ -18,5 +18,5 @@ A couple of months have passed since the last commit, which suggests that the pr
 
 
 *Sources:*
-- *<a href="https://github.com/anucvml/vidat">Vidat GitHub Repository</a>*
 - *<a href="https://github.com/anucvml">GitHub User Anucvml</a>*
+- *<a href="https://github.com/anucvml/vidat">Vidat GitHub Repository</a>*
