@@ -18,4 +18,4 @@ A couple of months have passed since the last commit, which suggests that the pr
 
 
 *Sources:*
-- *<a href="https://doi.org/10.48175/IJARSCT-11689">Vidat</a>*
+- *<a href="https://github.com/anucvml/vidat">Vidat GitHub Repository</a>*
