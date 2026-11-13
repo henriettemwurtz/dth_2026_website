@@ -17,6 +17,6 @@ As part of my English studies, I frequently work with large amounts of visual ma
 A couple of months have passed since the last commit, which suggests that the project has either been abandoned or that issues with the tool rarely arise. That said, I am still willing to try it to see whether it can assist me with my thesis work. If it makes the process more efficient, I might be able to use it for similar projects in the future.
 
 
-*Sources:*
+***Sources:***
 - *<a href="https://github.com/anucvml">GitHub User Anucvml</a>*
 - *<a href="https://github.com/anucvml/vidat">Vidat GitHub Repository</a>*
