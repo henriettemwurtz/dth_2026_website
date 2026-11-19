@@ -1,4 +1,6 @@
-# What are the advantages of open source software?
+# Advantages of OSS
+
+## What are the advantages of open source software?
 
 Open source software differs from proprietary software by allowing users to **view, modify, and improve** the source code. The advantages of this type of software are numerous, and they extend far beyond mere cost efficiency.
 
