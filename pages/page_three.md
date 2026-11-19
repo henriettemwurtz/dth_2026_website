@@ -1,6 +1,4 @@
-# Project Idea for My Major 
-
-## Which open source project would be useful in your major, and why?
+# Which open source project would be useful in your major, and why?
 
 **Vidat** is maintained by the user Anucvml and appears to be associated with the Vision and Machine Learning group at the Australian National University. Jiahao Zhang, Stephen Gould, and Itzik Ben Shabat are credited as creators. The project is an **annotation tool** developed to support a wide range of labeling, including objects, people, and actions. Using this tool, users can add timestamps, descriptions, and annotations to visual material.
 
