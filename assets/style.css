@@ -308,3 +308,7 @@ main img {
   animation: fall 5s linear infinite;
 }
 
+#totalCount {
+  align-self: center;
+  margin: 0;
+}
